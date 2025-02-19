@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinesquivel03&theme=onedark" alt="kevinesquivel03" /></a> </p>
 
-- 🔭 I’m currently working on [inventory-management-system](https://github.com/KevinEsquivel03/inventory-management-system)
-
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
