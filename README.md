@@ -48,11 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinesquivel03&layout=compact&theme=onedark" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinesquivel03&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-esq&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinesquivel03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kevin-esq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
