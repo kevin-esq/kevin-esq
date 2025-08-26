@@ -65,7 +65,7 @@ I'm a Full-Stack Developer passionate about creating robust and scalable technol
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-esq&theme=react&border_radius=10" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kevin-esq&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---
