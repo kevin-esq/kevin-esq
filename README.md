@@ -65,7 +65,7 @@ I'm a Full-Stack Developer passionate about creating robust and scalable technol
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=kevin-esq&theme=dark"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kevin-esq&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ---
