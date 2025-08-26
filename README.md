@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer passionate about creating robust and scalable technological solutions. I specialize in developing modern web applications using frameworks like React and Angular, with a solid backend foundation in Java and Spring Boot.
+I'm a Full-Stack Developer passionate about creating robust and scalable technological solutions. I specialize in developing modern web applications using frameworks like React and Angular, with a solid backend foundation in C# and Dot Net.
 
 **Currently:**
 - 🌱 Deepening knowledge in **React** and microservices architectures
